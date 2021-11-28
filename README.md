@@ -96,7 +96,7 @@ My name is Carlos, and I am a Software Engineering student at [University of Má
         <img alt="Lua" height="50px" src=".github/assets/lua.png">
     </a>
     <!-- Go -->
-    <a href="https://www.lua.org/">
+    <a href="https://go.dev/">
         <img alt="Go" height="50px" src=".github/assets/go.png">
     </a>
 </div>
