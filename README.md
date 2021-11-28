@@ -1,9 +1,5 @@
 # Hi Everyone!
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!--
-    width refers to the document width. Using a 40% allows the iOS github
-    app to look decent on mobile
-    -->
     <img align="right" width="40%" alt= "Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTMarin&layout=compact&langs_count=6&theme=tokyonight">
 </a>
 
