@@ -100,5 +100,7 @@ My name is Carlos, and I am a Software Engineering student at [University of Má
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Altair-Bueno&repo=fuzzy-disco&theme=tokyonight)](https://github.com/Altair-Bueno/fuzzy-disco)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CTMarin&repo=scrust&theme=tokyonight)](https://github.com/CTMarin/scrust)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Altair-Bueno&repo=multicenter&theme=tokyonight)](https://github.com/Altair-Bueno/Multicenter)
 
