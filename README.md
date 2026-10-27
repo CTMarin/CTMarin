@@ -1,6 +1,6 @@
 # Hi, I'm Carlos
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" width="40%" alt= "Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTMarin&layout=compact&langs_count=6&theme=tokyonight">
+    <img align="right" width="40%" alt= "Top Langs" src="https://github-stats-extended.vercel.app/api/top-langs?username=CTMarin&layout=compact&hide_title=true&langs_count=6&theme=dark_github">
 </a>
 
 Software engineer from Málaga who mostly builds backend systems. I have always loved astronomy, so I ended up doing an MSc in Astrophysics & Astronomy, and these days I spend my free time analysing astronomic data and playing around with embedded systems.
